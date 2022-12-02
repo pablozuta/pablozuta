@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi, I'm Pablo 👋</h1>
 
-<p>As developer, I specialize in creating <em>intuitive and engaging user experiences</em> using HTML, CSS , JavaScript and web frameworks like Django , Next and SvelteKit .I strive to build applications that are both visually appealing and technically sound. </p>
+<p>As developer, I specialize in creating <em>intuitive and engaging user experiences</em> using HTML, CSS , JavaScript and web frameworks like Django , Next and Svelte .I strive to build applications that are both visually appealing and technically sound. </p>
 
-<p>I enjoy working on projects that involve data analysis, machine learning, and web development with Python.</p>
+
 
 - 🌱 I’m currently learning **Rust , Machine Learning and Natural Language Processing**
 
