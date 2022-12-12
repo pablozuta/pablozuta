@@ -10,7 +10,7 @@
 
 <p>I am excited to continue my growth as a developer and to take on new and challenging projects. If you have a project that you think would be a good fit for my skills, I would love to hear from you! </p>
 
-- 🌱 I’m currently learning **Rust for Machine Learning and Natural Language Processing**
+- 🌱 I’m currently learning **Rust for Web Development**
 
 <br>
 
