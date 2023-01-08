@@ -1,15 +1,8 @@
 
-<h1 align="center">Hey! I'm Pablo 👋</h1>
+<!--<h1 align="center">Hey! I'm Pablo 👋</h1>-->
+ <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1673192572/generales/53df61a3f0d14c4ba07900a351fd343b_r4it9m.jpg" alt="banner imagen" >
 
-<p>I specialize in creating <em>intuitive and engaging user experiences</em> using Web Technologies .I strive to build applications that are both visually appealing and technically sound. </p>
-
-
-
-
-
-
-<p>I am excited to continue my growth as a developer and to take on new and challenging projects. If you have a project that you think would be a good fit for my skills, I would love to hear from you! </p>
-
+<p>I specialize in creating <em>intuitive and engaging user experiences</em> using Web Technologies . I strive to build applications that are both visually appealing and technically sound. </p>
 
 
 <br>
